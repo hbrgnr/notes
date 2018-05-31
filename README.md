@@ -1,1 +1,1 @@
-# A repository for thoughts I don't want to forget
+# A repository for things I don't want to forget
