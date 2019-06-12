@@ -2,9 +2,9 @@
 title: "R Factors: Explicit vs. Implicit Missingness"
 author: "Helge Bruegner"
 date: "12 6 2019"
-output: html_document
+output: github_document
 ---
-d
+
 ## Explicit vs. implicit
 
 Consider the following two factors (we have to set `exclude = NULL` such that `factor()` doesn't remove `NA` from our `levels` attribute):
